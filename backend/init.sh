@@ -1,0 +1,1 @@
+huggingface-cli download facebook/seamless-m4t-v2-large --cache-dir ./local_model_dir
